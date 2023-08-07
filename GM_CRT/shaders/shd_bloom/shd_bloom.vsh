@@ -1,3 +1,7 @@
+/*
+	Bloom shader by @XorDev
+	https://mini.gmshaders.com/p/gm-shaders-mini-crt
+*/
 attribute vec3 in_Position;
 attribute vec4 in_Colour;
 attribute vec2 in_TextureCoord;

@@ -1,3 +1,7 @@
+/*
+	CRT shader by @XorDev
+	https://mini.gmshaders.com/p/gm-shaders-mini-crt
+*/
 //RGB Mask intensity(0 to 1)
 #define MASK_INTENSITY 1.0
 //Mask size (in pixels)
@@ -20,7 +24,9 @@
 //Pulse animation speed
 #define PULSE_RATE 2e1
 
+//Animation time in seconds
 uniform float u_time;
+//Screen resolution
 uniform vec2 u_resolution;
 
 varying vec4 v_color;

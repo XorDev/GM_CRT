@@ -1,3 +1,7 @@
+/*
+	Bloom shader by @XorDev
+	https://mini.gmshaders.com/p/gm-shaders-mini-crt
+*/
 //Bloom radius in pixels
 #define BLOOM_RADIUS 16.0
 //Bloom texture samples
